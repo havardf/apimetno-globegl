@@ -1,8 +1,6 @@
-# Spatial
+## Globe.gl statistics for api.met.no
 
-## Globegl view of reqs pr country
-
-### Setup
+## Setup
 
 Install homebrew: https://brew.sh/
 
@@ -14,7 +12,7 @@ cd globegl
 npm install
 ```
 
-### Run
+## Run
 
 ```bash
 cd globegl
