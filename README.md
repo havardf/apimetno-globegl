@@ -1,4 +1,4 @@
-## Globe.gl statistics for api.met.no
+# Globe.gl statistics for api.met.no
 
 ## Setup
 
