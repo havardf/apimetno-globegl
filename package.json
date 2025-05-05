@@ -1,0 +1,11 @@
+{
+    "name": "api.met.no stats",
+    "version": "1.0.0",
+    "description": "stats from logs",
+    "main": "index.html",
+    "scripts": {
+      "start": "open http://localhost:8080 && node server.js"
+    },
+    "author": "Håvard",
+    "license": "TODO"
+  }
